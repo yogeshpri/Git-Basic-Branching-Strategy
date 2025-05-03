@@ -1,1 +1,1 @@
-#Git branching strategy for a project with feature branches, a developer branch, and a main branch, and create the same in your repository. Perform a sample pull request from developer branch to feature branch.
+### Git branching strategy for a project with feature branches, a developer branch, and a main branch, and create the same in your repository. Perform a sample pull request from developer branch to feature branch.
